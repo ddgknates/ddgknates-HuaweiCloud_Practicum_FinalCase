@@ -37,5 +37,3 @@ The reason why I do this; continue to be served by the AZ-2 if traffic does not 
   - 0.0.0.0/0 SG-1
   #### Outbound Rules
   - 0.0.0.0/0 All Traffic 
-
-# ddgknates-HuaweiCloud_Practicum_FinalCase
